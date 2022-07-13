@@ -42,4 +42,4 @@
 </p>
 
 
-![svg](https://raw.githubusercontent.com/kenneth-bro/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+[//]: # (![svg]&#40;https://raw.githubusercontent.com/kenneth-bro/kenneth-bro/main/profile-3d-contrib/profile-night-rainbow.svg&#41;)
