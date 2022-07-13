@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kenneth&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kenneth-Bro&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 <p align="center">
   <a href="#">
